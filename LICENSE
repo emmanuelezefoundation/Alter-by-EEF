@@ -1,21 +1,45 @@
-MIT License
+Alter by EEF Open Source Non-Commercial License
+Version 1.0, (July 26, 2023)
 
-Copyright (c) 2023 emmanuelezefoundation
+Copyright (c) 2023, Emmanuel Eze Foundation Inc. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Preamble
+This License applies to the software product "Alter", hosted on GitHub, provided by Emmanuel Eze Foundation Inc. (the "Licensor").
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This License encourages contributions from the community to Alter's development and improvement, but strictly prohibits any commercial use or creation of derivative works that compete with Alter.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Terms and Conditions
+Definitions
+
+"You" means the licensee of Alter.
+"Contribution" means any changes, additions, or improvements to Alter made by You.
+Grant of Rights
+
+You are granted a non-exclusive, non-transferable, royalty-free license to use, study, and modify Alter for personal or educational purposes under the terms of this License.
+You may share Alter and your Contributions on GitHub or other similar platforms, provided you do so under the same terms of this License.
+Restrictions
+
+You may not use Alter for commercial purposes, nor may you use Contributions to create a competing product or service. Any attempt to violate these restrictions will automatically terminate your license.
+You must include this License and copyright notice in any copy of Alter or in any major sections of Alter that You distribute.
+Contributions
+
+By submitting Contributions, you grant the Licensor a non-exclusive, irrevocable, worldwide, royalty-free license to use, reproduce, distribute, create derivative works of, publicly display, publicly perform, and sublicense the Contributions.
+You represent that you are legally entitled to grant the above license.
+Contributions must be submitted through the GitHub platform under the same license terms.
+Disclaimer of Warranty
+
+Alter is provided "as is" without warranty of any kind, either express or implied.
+Limitation of Liability
+
+In no event will the Licensor be liable for any damages, including any lost profits or other incidental or consequential damages, arising out of or in connection with Alter or the use or other dealings in Alter.
+Governing Law
+
+This License shall be governed by the laws of the country where the Licensor is incorporated.
+By using Alter, you accept and agree to the terms and conditions of this License. If you do not agree to these terms and conditions, do not use Alter.
+
+
+
+
+
+
+
