@@ -62,7 +62,7 @@ npm run dev
 ```
 
 ## Contributing
-We welcome contributions to the Alter Education Platform by EEF! Please see the CONTRIBUTING.md file for how to contribute.
+We welcome contributions to the Alter Education Platform by EEF! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for how to contribute.
 
 ## License
 See the LICENSE file for details.
